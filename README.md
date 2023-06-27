@@ -13,5 +13,6 @@ In this app, I will be creating a “choose your own adventure” game similar t
 * Learn about Object Oriented Programming.
 * How to refactor code and stay organised.
 
+![](https://github.com/avneetsekhoncs/Destini/blob/main/Destini%20Game%20Demo.gif)
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
